@@ -1,32 +1,32 @@
 @font-face {
     font-family: lolo;
-    src: url(/font/FontsFree-Net-Lolo-Clean-W01-One-Bold.ttf);
+    src: url(../font/FontsFree-Net-Lolo-Clean-W01-One-Bold.ttf);
 }
 
 @font-face {
     font-family: nfsFont;
-    src: url(/font/NFS_by_JLTV.ttf);
+    src: url(../font/NFS_by_JLTV.ttf);
 }
 
 @font-face {
     font-family: jockey;
-    src: url(/font/JockeyOne-Regular.ttf);
+    src: url(../font/JockeyOne-Regular.ttf);
 
 }
 
 @font-face {
     font-family: hebre1;
-    src: url(/font/OpenSansHebrewCondensed-Regular.ttf);
+    src: url(../font/OpenSansHebrewCondensed-Regular.ttf);
 }
 
 @font-face {
     font-family: billabong;
-    src: url(/font/Fontspring-DEMO-blue_vinyl_regular_ps_ot.otf);
+    src: url(../font/Fontspring-DEMO-blue_vinyl_regular_ps_ot.otf);
 }
 
 @font-face {
     font-family: sansFont;
-    src: url(/font/Latinotype\ -\ TrendSansFour.otf);
+    src: url(../font/Latinotype\ -\ TrendSansFour.otf);
 }
 
 * {
