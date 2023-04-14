@@ -1,0 +1,89 @@
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    /* height: 100%; */
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    /* height: 100%; */
+    margin: 50px 30px 20px 30px;
+    
+}
+
+.pdts {
+    width: 100%;
+    height: 540px;
+    padding: 30px;
+    margin: 10px 20px 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+}
+
+.pdts h2:hover{
+    color: red;
+    transition: 0.3s;
+}
+
+.pdts a{
+    text-decoration: none;
+}
+
+.pdts i {
+    color: red; font-size: 36px;
+}
+
+.pdts-1 {
+    background-image: url(../images/achievements/1.png);
+    font-size: 19px;
+    line-height: 2.1em;
+}
+
+.pdts-2 {
+    background-image: url(../images/achievements/2.png);
+}
+
+.pdts-3 {
+    background-image: url(../images/achievements/3.png);
+}
+
+.pdts-4 {
+    background-image: url(../images/achievements/4.png);
+}
+
+.pdts-5 {
+    background-image: url(../images/achievements/5.png);
+}
+
+.pdts-6 {
+    background-image: url(../images/achievements/6.png);
+}
+
+.pdts h2{
+    font-family: nfsFont;
+    color: #fff;
+    font-size: 40px;
+    /* text-decoration: #000; */
+    letter-spacing: 4px;
+    padding-top: 30px;
+}
+
+.pdts p {
+    font-family: lolo;
+    color: #fff;
+    font-size: 22px;
+    margin-top: 40px;
+    line-height: 2.6em;
+    /* height: 100px; */
+}
+
+
+.big img {
+    max-width: 100%;
+    height: auto;
+}
